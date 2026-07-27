@@ -1,8 +1,8 @@
 import random
 
-print("===================================")
+print("====================================")
 print("     GUESS THE NUMBER GAME")
-print("===================================")
+print("====================================")
 
 # Generate a random number between 1 and 100
 secret_number = random.randint(1, 100)
