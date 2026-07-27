@@ -24,7 +24,7 @@ while True:
             print("Too High! Try Again.\n")
 
         else:
-            print("\n🎉 Congratulations!")
+            print("\n🎉  Congratulations!")
             print(f"You guessed the correct number: {secret_number}")
             print(f"You took {attempts} attempts.")
             break
