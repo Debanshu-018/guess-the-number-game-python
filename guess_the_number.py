@@ -8,7 +8,7 @@ print("=====================================")
 secret_number = random.randint(1, 100)
 
 attempts = 0
-
+ 
 print("I have selected a number between 1 and 100.")
 print("Can you guess  it?")
 
